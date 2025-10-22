@@ -1,7 +1,25 @@
+# Python
 __pycache__/
 *.pyc
-venv/
-todos.db
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+
+# Node / Angular
 node_modules/
 dist/
-.env
+*.zip
+
+# VSCode and IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other temporary
+*.log
+*.bak
